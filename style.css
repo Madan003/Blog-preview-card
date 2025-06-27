@@ -70,7 +70,7 @@ body{
 .heading:hover{
     color: hsl(47, 88%, 63%);;
 }
-@media (max-width: 375px) {
+@media screen and (max-width: 375px) {
   .container {
     width: 327px;
     height: auto;
